@@ -1,2 +1,2 @@
 print("Hello")
-print("welcome to Telusko")
+print("Welcome to Telusko")
